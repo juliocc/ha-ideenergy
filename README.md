@@ -105,7 +105,7 @@ It also necessary to have an "Advanced User" profile. Should you not have one al
 ## Warnings
 This extension provides an 'historical' sensor to incorporate data from the past into Home Assistant database. For your own safety the sensor is not enabled by default and must be enabled manually.
 
-☠️ Historic sensor is based on a **high experimental hack** and can broke and/or corrupt your database and/or statistics. **Use at your own risk**.
+☠️ Historic sensor is based on a **high experimental hack** and can break and/or corrupt your database and/or statistics. **Use at your own risk**.
 
 ## License
 
